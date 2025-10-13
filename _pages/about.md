@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a ~~fourth~~fifth-year PhD student in the [GLAMOR Lab](https://glamor-usc.github.io/) at the University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>user-centric approaches to building reliable LLM-based systems</b>. My research lies at the intersection of human-AI interaction, uncertainty quantification, and training human-centered LLM agents.
+Hi! I am a ~~fourth~~ fifth-year PhD student in the [GLAMOR Lab](https://glamor-usc.github.io/) at the University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>user-centric approaches to building reliable LLM-based systems</b>. My research lies at the intersection of human-AI interaction, uncertainty quantification, and training human-centered LLM agents. I am currently also collaborating with the research team at [Contextual AI](https://contextual.ai/).
 
 I have previously completed research internships at [AI2 Mosaic](https://mosaic.allenai.org/) and Microsoft Research, and before my PhD I briefly worked as an NLP Research Scientist at AI Foundation. I completed my Masters from the Language Technologies Institute at Carnegie Mellon University, where I had the pleasure of working with [Prof. Yonatan Bisk](https://yonatanbisk.com/), [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/) and [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html). Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, majoring in Mechanical Engineering, with a Minor degree in Computer Science.
 
 News
 ======
+* <b>Oct 2025</b>: Attended COLM 2025 🍁 in Montreal, where I co-organized the first [ORIGen workshop](https://origen-workshop.github.io/)!
 * <b>July 2025</b>: Honored to have been named a Capital One CREDIF Fellow! I will also be at ACL 🇦🇹 to present our work on [mime understanding for VLMs](https://www.arxiv.org/abs/2506.21586)
 * <b>May 2025</b>: New position paper on the need for [human-centric LLM uncertainty quantification](https://arxiv.org/abs/2506.07461)!
 * <b>April 2025</b>: Completed by Ph.D. thesis proposal on **Facilitating Reliable Human-AI Collaboration Under Uncertainty**
